@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<launch>
+
+  
+  <!-- navigation -->
+  <node ns="multi_goal" pkg="multi_goal_driver" type="multi_goal_driver_node" name="multi_goal_driver" output="screen">
+  	<remap from="/multi_goal/simple_model/base_to_second_joint_position_controller/command" to="/simple_model/base_to_second_joint_position_controller/command"/> 
+    <!-- remap outputs -->
+    <!-- <remap from="/multi_goal/cmd_vel" to="/cmd_vel"/> -->
+    <rosparam command="load" file="$(find multi_goal_driver)/launch/goals.yaml"/> 
+  </node>
+  <!--node ns="multi_goal" pkg="multi_goal_driver" type="multi_goal_driver_node" name="pub_hinge_up" output="screen">
+     
+  </node-->
+</launch>
