@@ -5,7 +5,7 @@ Multiple goals navigation which is set by YAML file and the goals are send to Mo
 Launch in same order after adding to workspace
 
 1) To launch the world
-roslaunch marker_description hinge_down.launch
+roslaunch marker_description marker_world.launch
 
 2) To launch rviz+move_base
 roslaunch marker_description move_base.launch
@@ -14,4 +14,4 @@ roslaunch marker_description move_base.launch
 multi_goal_driver multi_goal_driver.launch 
 
 # Author
-Arindam Jain https://github.com/Arindam-Jain 
+Arindam Jain 
