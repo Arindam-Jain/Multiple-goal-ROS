@@ -19,7 +19,8 @@ https://drive.google.com/file/d/1-Ltms2kTFQGwbizYWhXSirhCImQOBE3U/view?usp=shari
 
 
 # Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YQQlbH-sbFo/0.jpg)](https://drive.google.com/file/d/1-Ltms2kTFQGwbizYWhXSirhCImQOBE3U/view?usp=sharing)
+[![IMAGE ALT TEXT HERE](![image](https://user-images.githubusercontent.com/40122399/140579490-9a4eb331-f017-48b1-b298-dc594f32431c.png)
+)](https://drive.google.com/file/d/1-Ltms2kTFQGwbizYWhXSirhCImQOBE3U/view?usp=sharing)
 
 This video is the prototype simulation of trolley carrying from Dispatch point to storage point
 
