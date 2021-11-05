@@ -1,4 +1,4 @@
-# Multi_goal_navigation
+# Mobile Robot - Multi goal navigation
 Multiple goals navigation which is set by YAML file and the goals are send to Move_base with actionclient and Hinge is controlled by conditional loops.
 
 # How to Launch
